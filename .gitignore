@@ -1,0 +1,5 @@
+.idea
+awsplugins.egg-info
+build
+awsec2info.egg-info
+__pycache__
